@@ -1,4 +1,4 @@
-<img align="center" style="margin-bottom:100px" width=100% src="https://github-production-user-asset-6210df.s3.amazonaws.com/97697928/238154544-9acbb44e-98f8-4f83-82f7-c19408c161cd.png
+<img align="center" style="margin-bottom:100px" width=100% src="![github2](https://github.com/IanPedr/Ianpedr/assets/118200333/2b566a3b-279f-4668-825e-91001504fcb8)
 " />
 &nbsp;&nbsp;&nbsp;
 
