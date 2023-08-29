@@ -1,4 +1,5 @@
-<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/rafaelalexandrino/rafaelalexandrino/assets/97697928/9acbb44e-98f8-4f83-82f7-c19408c161cd" />
+<img align="center" style="margin-bottom:100px" width=100% src="![github2](https://github.com/IanPedr/Ianpedr/assets/118200333/7df17075-0c39-4bdb-9d5e-0a763921f605)
+" />
 &nbsp;&nbsp;&nbsp;
 
 <p align="center">I love solve great challenges using tech. <br><br> From backend development using Python to frontend development using HTML5 e CSS3, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>front-end newbie developer</strong> focused on web development.</p>&nbsp;
