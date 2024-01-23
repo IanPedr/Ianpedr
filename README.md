@@ -1,7 +1,9 @@
 <img align="center" style="margin-bottom:100px" width=100% src="https://github.com/IanPedr/Ianpedr/assets/118200333/2b566a3b-279f-4668-825e-91001504fcb8" />
 &nbsp;&nbsp;&nbsp;
 
-<p align="center">I love solve great challenges using tech. <br><br> From backend development using Python to frontend development using HTML5 e CSS3, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>front-end newbie developer</strong> focused on web development.</p>&nbsp;
+<p align="center">Adoro resolver grandes desafios usando tecnologia.
+
+Do desenvolvimento backend usando Python ao desenvolvimento frontend usando HTML5 e CSS3, sou apaixonado por descobrir coisas novas e usá-las para criar soluções de alta qualidade. Hoje, sou um desenvolvedor front-end novato focado em desenvolvimento web.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=ianpedr&theme=radical&mode=weekly" />
